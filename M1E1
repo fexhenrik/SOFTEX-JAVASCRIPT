@@ -1,0 +1,11 @@
+SITE UM: https://www.primevideo.com/?_encoding=UTF8&language=pt_BR
+    A funcionalidade do botão 'avançar';
+    Ao passar o mouse sobre o tal botão, representado por uma seta ">", ele expande e acende com um pequeno pano de fundo.
+    Além disso, ao ser clicado, ele direciona para uma nova aba na categoria referente.
+    <button class="_3Twtd7 LFEY5m" aria-label="Avançar"></button>
+    
+    
+SITE DOIS: https://www.youtube.com/
+    A grande parte do conteúdo exibido no youtube utilizá-se de JavaScript, vamos focar em uma das funções de exibição.
+    Ao tocar duplamente em uma das extremidades da tela, o vídeo irá 'retroceder' cinco segundos.
+    <span class="ytp-doubletap-base-arrow"></span>
